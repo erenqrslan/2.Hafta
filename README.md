@@ -1,2 +1,2 @@
 # 2.Hafta
-Tablo isimleri siyah renklidir 
+Siyah arka plan kullanıyorsanız tablo isimleri siyah renk olduğu için az görünebilir
